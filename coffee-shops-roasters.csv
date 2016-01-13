@@ -1,24 +1,1 @@
-name,address,drip,expresso,speciality,roaster
-Eote Coffee,,FALSE,FALSE,FALSE,TRUE
-Kitchen No. 324,324 N. Robinson Ave OKC,TRUE,TRUE,TRUE,FALSE
-Aspen Coffee Company,180 West 15th St Edmond,TRUE,TRUE,FALSE,TRUE
-Elemental Coffee,815 N Hudson Ave OKC,TRUE,TRUE,TRUE,TRUE
-Cafe Kacao,3325 Classen Blvd OKC,TRUE,TRUE,FALSE,FALSE
-Cafe Condesa,300 Park Ave OKC,TRUE,TRUE,FALSE,FALSE
-District House,1755 NW 16th OKC,TRUE,TRUE,FALSE,FALSE
-Coffee Slingers,1015 N Broadway Ave OKC,TRUE,TRUE,TRUE,TRUE
-Hoboken Coffee Roasters,224 S Division St Guthrie,TRUE,TRUE,TRUE,TRUE
-Cuppies & Joe,727 NW 23st OKC,TRUE,TRUE,FALSE,FALSE
-Junction Coffee,,,,,
-Evoke,,,,,
-Perk Place,,,,,
-Cowgirl Coffee,,,,,
-All About Cha,,,,,
-Kamp’s 1910,,,,,
-Red Cup,,,,,
-Shartel Cafe,,,,,
-Leaf + Bean,,,,,
-Aravalli,,,,,
-Vintage Coffee,,,,,
-Crimson and Whipped Cream,"331 White St, Norman",,,,
-Gray Owl Coffee,223 E Gray St,,,,
+name,address,drip,expresso,speciality,roasterEote Coffee,,FALSE,FALSE,FALSE,TRUEKitchen No. 324,324 N. Robinson Ave OKC,TRUE,TRUE,TRUE,FALSEAspen Coffee Company,180 West 15th St Edmond,TRUE,TRUE,FALSE,TRUEElemental Coffee,815 N Hudson Ave OKC,TRUE,TRUE,TRUE,TRUECafe Kacao,3325 Classen Blvd OKC,TRUE,TRUE,FALSE,FALSECafe Condesa,300 Park Ave OKC,TRUE,TRUE,FALSE,FALSEDistrict House,1755 NW 16th OKC,TRUE,TRUE,FALSE,FALSECoffee Slingers,1015 N Broadway Ave OKC,TRUE,TRUE,TRUE,TRUEHoboken Coffee Roasters,224 S Division St Guthrie,TRUE,TRUE,TRUE,TRUECuppies & Joe,727 NW 23st OKC,TRUE,TRUE,FALSE,FALSEJunction Coffee,,,,,Café Evoke,"103 S Broadway, OKC",,,,Perk Place,"1649 W 33rd St, Edmond",,,,Cowgirl Coffee,"121 E Waterloo Rd, Edmond",,,,All About Cha,"7300 N Western Ave, OKC",,,,Kamp's 1910,"10 NE 10th St, OKC",,,,Red Cup,"3122 Classen Blvd, OKC",,,,Shartel Cafe,"5116 North Shartel, OKC",,,,Leaf + Bean,"2901 NW 36th St, OKC",,,,Aravalli,333 West Sheridan Ave. OKC,,,,Vintage Coffee,"1101 NW 49th St, OKC",,,,Crimson and Whipped Cream,"331 White St, Norman",,,,Gray Owl Coffee,223 E Gray St,,,,Java Dave's Coffee,9th NE 9th St,,,,Clarity Coffee,"431 W Main St, OKC",,,,
