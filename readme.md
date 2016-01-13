@@ -1,3 +1,5 @@
+# summon okc coffee lovers
+
 Inspired by page 50 of [edible OKC](http://www.edibleokc.com/)'s January and February issue, this project is designed to create a community of coffee enthusiasts in OKC.
 
 Basic app to:
