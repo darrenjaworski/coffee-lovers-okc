@@ -134,7 +134,7 @@ def query_api(term, location):
     offset = 0
     businesses = []
 
-    while i < 120:
+    while i < 140:
         response = search(term, location, i)
 
         newBusinesses = response.get('businesses')
@@ -174,10 +174,12 @@ def writeCSV(businesses):
         writer.writeheader()
 
         for business in businesses:
+            
             if len(business['location']['address']) > 0:
                 address = business['location']['address'][0].encode('ASCII', 'ignore')
             else:
                 address = 'null'
+
             row = {
                 'name': business['name'].encode('ascii','ignore'),
                 'rating': business['rating'],
