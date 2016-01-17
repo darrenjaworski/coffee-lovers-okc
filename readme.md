@@ -9,6 +9,8 @@ Basic app to:
 - provide information -- on OKC coffee venues
 - create a place for local coffee people to come together and love on our favorite thing, coffee
 
+- [0.0.1 of Basic map plotting coffee shops in OKC.](http://bl.ocks.org/darrenjaworski/raw/196418ccad100f9e367d/)
+
 Ideas are more than welcomed.
 
 - (in addition to roaster vs. espresso vs. cold brew vs. pour over vs. the-next-hipster-coffee-trend-where-it-drips-for-two-weeks-before-you-can-drink-it, etc.): hours, drive-thru, ease of parking, wifi/cool atmosphere, food served, vegetarian/vegan-friendly, events (open mic night, music, group gatherings, clubs, etc.), keep it local/citycard/other discount/loyalty program participants
