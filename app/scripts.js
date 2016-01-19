@@ -6,7 +6,7 @@ $(document).ready(function(){
   });
 
   (function map(){
-    var zoom = 15;
+    var zoom = 11;
 
     var map = L.map('map', {
       center: new L.LatLng(35.467560, -97.516428),
