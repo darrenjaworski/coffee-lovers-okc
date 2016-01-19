@@ -7,7 +7,7 @@
   z-index: -1;
 }
 
-.leaflet-control-zoom-in, .leaflet-control-zoom-out {
+/*.leaflet-control-zoom-in, .leaflet-control-zoom-out {
   background: rgb(255,215,64) !important;
 }
 
@@ -17,7 +17,7 @@
 
 .leaflet-bar a:last-child:hover {
   border-bottom: none;
-}
+}*/
 
 header .mdl-textfield {
   padding: 23px 0;
@@ -70,4 +70,30 @@ header .mdl-textfield {
 
 .entry .mdl-card__menu {
   color: #fff;
+}
+
+.map-controls {
+  background: white;
+  left: 4em;
+  position: absolute;
+  width: 15em;
+  top: -36em;
+  padding: 1.5em;
+  transition: top .5s;
+  border-radius: 2px;
+  box-sizing: border-box;
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.2),0 1px 5px 0 rgba(0,0,0,.12);
+}
+
+.map-controls h5:first-child {
+  margin-top: 0;
+}
+
+.map-controls button {
+  margin-top: 1em;
+}
+
+
+.coffee-app.map-open .map-controls {
+  top: 6em;
 }

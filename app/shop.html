@@ -39,7 +39,7 @@
         <!-- Navigation. We hide it in small screens. -->
         <nav class="mdl-navigation mdl-layout--large-screen-only">
           <!-- <a class="mdl-navigation__link" href="">coffee chat<label class="mdl-button mdl-js-button mdl-button--icon"><i class="material-icons">forum</i></label></a> -->
-          <a class="mdl-navigation__link" href="">favorites<label class="mdl-button mdl-js-button mdl-button--icon"><i class="material-icons">favorite</i></label></a>
+          <a class="mdl-navigation__link" href="favorites.html">favorites<label class="mdl-button mdl-js-button mdl-button--icon"><i class="material-icons">favorite</i></label></a>
           <a class="mdl-navigation__link" id="map-btn" href="">map<label class="mdl-button mdl-js-button mdl-button--icon"><i class="material-icons">map</i></label></a>
         </nav>
         <div class="mdl-textfield mdl-js-textfield mdl-textfield--expandable
@@ -71,18 +71,25 @@
                 <h2 class="mdl-card__title-text">Elemental Coffee</h2>
               </div>
               <div class="mdl-card__supporting-text">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Mauris sagittis pellentesque lacus eleifend lacinia...
-              </div>
-              <div class="mdl-card__actions mdl-card--border">
-                <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
-                  Get Started
-                </a>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit numquam obcaecati voluptatum quia. Tenetur facilis praesentium dicta hic dolorum eaque esse impedit obcaecati quia pariatur illum iste vero, laudantium, vitae ea asperiores officiis exercitationem, cupiditate quaerat odio autem minima possimus. Molestiae eum modi error placeat. Et nobis facilis pariatur eveniet ratione quae, a quod ducimus, veniam odio, delectus, illum distinctio maxime quos sint. Deleniti quos dicta cupiditate libero ea ducimus, adipisci, blanditiis quaerat odio cumque cum quisquam culpa officia eum aut dolorem assumenda quod fugiat voluptas, eos, voluptatum totam. Obcaecati culpa reiciendis qui! Quae, numquam repellat, maxime eligendi velit soluta.</p>
+                <ul>
+                  <li>Lorem</li>
+                  <li>Ipsum</li>
+                  <li>Voluptate</li>
+                  <li>Velit</li>
+                </ul>
+                <p>This card will contain information about the coffee shop. Details about the coffee they serve. Varieties. Specials. Compiled information that no one else has for this shop.</p>
+                <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">See their full memu</a>
               </div>
               <div class="mdl-card__menu">
-                <button class="mdl-button mdl-button--icon mdl-js-button mdl-js-ripple-effect">
+                <button class="mdl-button mdl-button--icon mdl-js-button mdl-js-ripple-effect" id="sharebtn">
                   <i class="material-icons">share</i>
                 </button>
+                <ul class="mdl-menu mdl-js-menu mdl-menu--bottom-right" for="sharebtn">
+                  <li class="mdl-menu__item">post</li>
+                  <li class="mdl-menu__item">tweet</li>
+                  <li class="mdl-menu__item">pin</li>
+                </ul>
               </div>
             </div>
           </section>
@@ -92,7 +99,7 @@
   </div>
 
   <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
-  <script src="scripts.js"></script>
+  <script src="scripts-map.js"></script>
 
   <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
   <script>
