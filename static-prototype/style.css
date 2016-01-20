@@ -1,0 +1,103 @@
+#map {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: -1;
+}
+
+/*.leaflet-control-zoom-in, .leaflet-control-zoom-out {
+  background: rgb(255,215,64) !important;
+}
+
+.leaflet-bar a, .leaflet-bar a:hover {
+  border-bottom: 1px solid black;
+}
+
+.leaflet-bar a:last-child:hover {
+  border-bottom: none;
+}*/
+
+header .mdl-textfield {
+  padding: 23px 0;
+}
+
+.coffee-app section {
+  margin: 2em auto;
+  position: relative;
+}
+
+.coffee-app section > button {
+  position: absolute;
+  z-index: 99;
+  top: 8px;
+  right: 8px;
+}
+
+.coffee-app section .mdl-button {
+  max-width: 50%;
+}
+
+.mdl-card {
+  /*padding: 1em;*/
+}
+
+.coffee-shops {
+  max-width: 50em;
+  padding-top: 2em;
+  margin: 0 auto;
+  transition: all .5s;
+}
+
+.coffee-app.map-open .coffee-shops {
+  margin-top: 100%;
+}
+
+.leaflet-top {
+  top: -1em;
+  transition: all .5s;
+}
+
+.coffee-app.map-open .leaflet-top {
+  top: 6em;
+}
+
+.entry .mdl-card__title {
+  height: 300px;
+  color: #fff;
+}
+
+.entry .mdl-card__menu {
+  color: #fff;
+}
+
+.map-controls {
+  background: white;
+  left: 4em;
+  position: absolute;
+  width: 15em;
+  top: -36em;
+  padding: 1.5em;
+  transition: top .5s;
+  border-radius: 2px;
+  box-sizing: border-box;
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.2),0 1px 5px 0 rgba(0,0,0,.12);
+}
+
+.map-controls h5:first-child {
+  margin-top: 0;
+}
+
+.map-controls button {
+  margin-top: 1em;
+}
+
+
+.coffee-app.map-open .map-controls {
+  top: 6em;
+}
+
+.mdl-radio {
+  display: block;
+}
