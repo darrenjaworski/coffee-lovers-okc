@@ -33,6 +33,8 @@ Features:
 - live data
 - filter list when click on the tag under coffee shops
 - walkthrough of app
+- replace pins on map with cafe icon
+- some sort of visual showing how the cafes are categorized on map for visual gronking
 
 Bug Fixes:
 
