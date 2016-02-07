@@ -2,7 +2,7 @@
 
 UPDATE:
 
-Front end app will live at this repo: [coffee-lovers-okc-app](https://github.com/darrenjaworski/coffee-lovers-okc-app). Please feel free to fork and pull request anything at all. Issues for anything you find are beautiful. You can also email/call/tweet me any bugs that you find.
+Front end app will live at this repo: [coffee-lovers-okc-app](https://github.com/darrenjaworski/coffee-lovers-okc-app). Please feel free to fork and pull request anything at all. [Issues](https://github.com/darrenjaworski/coffee-lovers-okc-app/issues) for anything you find are beautiful. You can also email/call/tweet me any bugs that you find.
 
 Inspired by page 50 of [edible OKC](http://www.edibleokc.com/)'s January and February issue, this project is designed to create a community of coffee enthusiasts in OKC.
 
