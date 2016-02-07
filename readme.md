@@ -35,6 +35,8 @@ Features:
 - walkthrough of app
 - replace pins on map with cafe icon
 - some sort of visual showing how the cafes are categorized on map for visual gronking
+- share options for cafe pages
+- slugify the url for the shop pages
 
 [Bug Fixes](https://github.com/darrenjaworski/coffee-lovers-okc-app/issues)
 
