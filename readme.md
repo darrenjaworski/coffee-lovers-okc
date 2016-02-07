@@ -36,7 +36,7 @@ Features:
 - replace pins on map with cafe icon
 - some sort of visual showing how the cafes are categorized on map for visual gronking
 
-(Bug Fixes)[https://github.com/darrenjaworski/coffee-lovers-okc-app/issues]
+[Bug Fixes](https://github.com/darrenjaworski/coffee-lovers-okc-app/issues)
 
 
 ## MVP roadmap:
