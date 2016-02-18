@@ -21,6 +21,8 @@ Ideas are more than welcome. Contributions are more than welcome.
 - do they have wi-fi
 - Use case for coffee: "Hey, it’s Monday morning. Need some help getting started? (option 1, shows quick stops/drive thrus) – quick jolt; (option 2, shows places to hang out) – ease into the day; (option 3, shows places that also serve food) – i’m not getting out of bed until 1 p.m.
 - should the app be coffee shop focused even when including tea and misc cafes? OKC Cafe.
+- have a rating for each of the cafes. based on atmosphere, flavor, wifi, what else?
+- allow users to vote
 
 ## What's left for MVP 1.0?
 
@@ -29,8 +31,6 @@ Sections:
 
 Features:
 - fuzzy cafe search
-- favorites
-- live data
 - walkthrough of app
 - replace pins on map with cafe icon
 - some sort of visual showing how the cafes are categorized on map for visual gronking
