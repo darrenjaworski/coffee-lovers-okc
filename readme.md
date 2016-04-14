@@ -30,6 +30,12 @@ Sections:
 - rename shop to cafe
 
 Features:
+- navigation item to return to main blog/coffee list page
+- suggestion engine for cafes and cups of coffee
+- simplify menus
+- simplify description sections
+- tooltips to help the filtering options make sense
+- had the idea to put a edit button the shop and home views so that users can send messages to us: corrections, updates, feedback
 - fuzzy cafe search
 - walkthrough of app
 - replace pins on map with cafe icon
